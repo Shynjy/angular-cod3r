@@ -17,13 +17,18 @@
     },
     {
       "name": "Relógio Tommy",
-      "price": "599,99",
+      "price": "599.99",
       "id": 4
     },
     {
       "name": "Casa",
-      "price": "20.000",
+      "price": "20000.00",
       "id": 5
+    },
+    {
+      "name": "Bicicleta",
+      "price": "250.46",
+      "id": 6
     }
   ]
 }
